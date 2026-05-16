@@ -1,1 +1,1 @@
-https://laptop-price-prediction-4a966e4803f7.herokuapp.com/
+https://laptop-price-predictor-app.as.r.appspot.com/
